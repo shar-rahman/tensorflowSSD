@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'head'
+}
+
+item {
+    id: 2
+    name: 'body'
+}
+
+item {
+	id: 3
+	name: 'whiteboard'
+}
